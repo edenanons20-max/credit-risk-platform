@@ -1,0 +1,14 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+xgboost
+fastapi
+uvicorn
+streamlit
+shap
+requests
+openpyxl
+xlrd
+pydantic
