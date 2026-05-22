@@ -12,7 +12,7 @@
 
 ## 🎯 Objectif
 
-Prédire la probabilité qu'un client bancaire fasse défaut sur son prochain paiement,
+Prédire la probabilité qu'un client fasse défaut sur son prochain paiement,
 à partir de ses données financières et comportementales.
 
 Projet complet couvrant l'ensemble du pipeline Data Science :
